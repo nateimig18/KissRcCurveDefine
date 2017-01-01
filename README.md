@@ -1,0 +1,2 @@
+# KissRcCurveDefine
+This is a quick MATLAB script (*.m), I wrote to help me responsibly feel out a good RC curve that has equal sensitivity at "center-stick" &amp; the same end points at "full-stick". It generates a number (you define) of RC curves that meet the slope &amp; end-point criteria, while also showing the sensitivity (first difference) curves of each. i.e. if your noob find a starting spot, &amp; slowly increase your "center-stick" slope or practice managing the outer expo portion of the curve in flight. 
