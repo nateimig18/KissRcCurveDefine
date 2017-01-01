@@ -7,6 +7,6 @@ This is a quick MATLAB script (*.m), I wrote to help me responsibly feel out a g
 ![kiss_rc_curve_variable_sensitivity](https://cloud.githubusercontent.com/assets/3208983/21580219/71b5bffc-cfaa-11e6-8d56-97bdaf6f9110.png)
 
 # Application
-The main idea is to feel out that "center-stick" sensitivity (slope), then either find your end points or "full-stick" max rotational velocity or testing the variation in sensitivity each curve has starting with zero Rate & maximum Curve.
+The main idea is to feel out that "center-stick" sensitivity (slope), then either find your end points at "full-stick" max rotational velocity or test the variation of sensitivity changes each curve has starting with zero Rate & maximum Curve on up.
 
-Please Let me know if theres a better or quicker way to find. 
+Please let me know if theres a better or quicker way to find. 
