@@ -12,4 +12,4 @@ To provide a little more user friendly way to find an RC-curve that fits your de
 Learn how to make a Chrome GUI Addon for this.
 
 # Another (Better) Explanation from "FinalGlideAus"
-[linkname](https://youtu.be/mqRzJKC-FHo?t=432)
+https://youtu.be/mqRzJKC-FHo?t=432
